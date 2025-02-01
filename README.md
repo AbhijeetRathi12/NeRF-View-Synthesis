@@ -1,13 +1,5 @@
 #  Neural Radiance Fields (NeRF)
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Results](#results)
-- [Acknowledgement](#acknowledgement)
-
 ## Overview
 
 | **NeRF Results Overview** |  |
@@ -17,9 +9,16 @@
 | ![Alt1](Ship_NeRF.gif) | |
 | Ship Output | |
 
-
 This repository contains an implementation of a Neural Radiance Fields (NeRF) model for volumetric rendering using PyTorch. NeRF is a powerful technique for synthesizing novel views of a scene by learning a continuous representation of scene geometry and appearance from a set of images. This implementation includes training, validation, testing, and visualization functionalities for NeRF models.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Results](#results)
+- [Acknowledgement](#acknowledgement)
+  
 ## Requirements
 
 To run this script, you need Python 3 and the following Python packages:
